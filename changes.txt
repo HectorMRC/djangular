@@ -1,0 +1,4 @@
+- Login obligatori
+- Home -> pagina login
+- Editar text blog
+- Login && register if not account
